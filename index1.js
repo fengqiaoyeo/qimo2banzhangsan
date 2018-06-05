@@ -201,7 +201,7 @@ function banner(){
 function downTime(){
     /*需要倒计时的时间*/
 
-    var time = 5 * 60 * 60 ;
+    var time = 6 * 60 * 60 ;
     var timer = null;
 
     /*操作dom*/
